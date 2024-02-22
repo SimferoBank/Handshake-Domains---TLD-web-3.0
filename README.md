@@ -56,4 +56,4 @@ Hundreds of CAs are installed on your computer by default — Microsoft Windows 
 Replacing CAs
 Handshake names are their own root of trust and have their TLS keys pinned to themselves. Rather than relying on an arbitrary centralized list of hundreds of certificate authorities to verify public key authenticity, Handshake makes it possible for anyone to verify key authenticity by shifting the root of trust to a cryptographically backed distributed root of trust: its blockchain. Unlike with traditional domains where it takes but a single bad certificate authority to compromise your security, with Handshake it would require the entire Handshake blockchain to be compromised.
 
-Based on the materials of the author of the article. Original article
+Based on the materials of the author of the article. Original article https://learn.namebase.io/about-handshake/about-handshake
